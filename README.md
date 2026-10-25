@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi, I'm Dhruthi
 
+Senior Analyst, Finance and Data Analytics. I build automation, monitoring and reporting with SQL, Python and Tableau.
 
-- 🙋‍♀️ I'm Dhruthi Gopannagari, an avid enthusiast of Machine Learning
-- 💎 Transforming raw data into gold through advanced analytics and innovative approaches
-- 📊 Crafting visually stunning dashboards and reports that bring data to life
-- 🔢 Statistically Savvy
-- 💡 Data-driven Decision Maker
-- 💻 Proficient in Python programming, SQL querying, and Tableau visualization
-- 📫 Reach me at: [LinkedIn](www.linkedin.com/in/dhruthi-gopannagari)
+My work projects are confidential, so the full stories live on my **[portfolio](https://dhruthig.github.io)**. Here you'll find my public code:
 
+| Project | What it is |
+|---|---|
+| [Capstone_Project](https://github.com/Dhruthig/Capstone_Project) | NLP on ~5,400 Credit Karma reviews and ~1,900 tweets: sentiment, emotion and BERTopic topic modeling. I led the team. |
+| [Posture_Recognition](https://github.com/Dhruthig/Posture_Recognition) | FormCoach: recognizes 47 yoga poses (93% validation accuracy) and 22 workouts from a photo with PyTorch and TensorFlow. |
 
+**Tools I work with:** Python · SQL · Pandas · PyTorch · TensorFlow · Tableau · Power BI · Streamlit
+
+[LinkedIn](https://www.linkedin.com/in/dhruthi-gopannagari/) · dhruthigopannagari55@gmail.com
